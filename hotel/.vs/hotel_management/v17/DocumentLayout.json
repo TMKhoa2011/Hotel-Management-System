@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SA\\Hotel-Management-System\\hotel_management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4EACDA-B667-4815-BF04-8ABDCA9A33F6}|hotel_management\\hotel_management.csproj|c:\\sa\\hotel-management-system\\hotel_management\\hotel_management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7A4EACDA-B667-4815-BF04-8ABDCA9A33F6}|hotel_management\\hotel_management.csproj|solutionrelative:hotel_management\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\SA\\Hotel-Management-System\\hotel_management\\hotel_management\\Form1.cs",
+              "RelativeDocumentMoniker": "hotel_management\\Form1.cs",
+              "ToolTip": "C:\\SA\\Hotel-Management-System\\hotel_management\\hotel_management\\Form1.cs [Design]",
+              "RelativeToolTip": "hotel_management\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:25:13.186Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
